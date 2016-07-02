@@ -1,0 +1,8 @@
+/node_modules/
+/build/
+/bower_components/
+.DS_Store
+/dump.rdb
+.idea/
+/coverage/
+/coverage_node/
